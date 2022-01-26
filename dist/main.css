@@ -1,0 +1,26 @@
+.field {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    width: 70vh;
+    height: 70vh;
+    border: solid 10px black;
+    border-radius: 15%;
+    background-color: yellow;
+}
+
+.hole {
+    width: 22%;
+    height: 22%;
+    border-radius: 100%;
+    background-color: black;
+}
+
+.goblin {
+    width: 100%;
+    height: 100%;
+}
+
+/*# sourceMappingURL=main.css.map*/
